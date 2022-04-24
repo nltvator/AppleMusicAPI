@@ -1,1 +1,2 @@
-print("Hello")
+import applemusicpy
+import os
